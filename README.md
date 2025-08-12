@@ -2,6 +2,9 @@
 
 A visually appealing Grid World environment for reinforcement learning exploration.
 
+<img width="1000" height="632" alt="grid explorer" src="https://github.com/user-attachments/assets/ac4d0f48-e7ee-4a45-95d3-abfe25d78bed" />
+
+
 ## Overview
 
 Grid World Explorer is an educational tool that demonstrates core reinforcement learning concepts through a visually engaging grid-based environment. The agent must navigate a world containing obstacles and collect rewards, using various RL algorithms to learn optimal policies.
